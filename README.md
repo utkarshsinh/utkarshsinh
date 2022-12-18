@@ -1,10 +1,9 @@
 Hi, I’m @utkarshsinh
 
-I have over 3 years of experience as a software engineer and have worked at large organizations. While I’m a Full-Stack developer, my expertise is in Data Structures and Algorithms.With specialization in JavaScript and haveing a professional experience working with C++ and Angular. I also have experience working with Node.JS, Python, Selenium and React. 
+I have over 3 years of experience as a software engineer and have worked at large organizations. While I’m a Full-Stack developer, my expertise is in Data Structures and Algorithms with specialization in C++ and Python. 
 
-Take a look at my work and get in touch!
+Do take a look at my work!
 
-Outside of work, I'm a sports enthusiast and take every opportunity to play outside.  
 
 
 
