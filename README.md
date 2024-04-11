@@ -1,6 +1,6 @@
 Hi, I’m @utkarshsinh
 
-I have over 3 years of experience as a software engineer and have worked at large organizations. While I’m a Full-Stack developer, my expertise is in Data Structures and Algorithms with specialization in C++ and Python. 
+I have over 3 years of experience as a software engineer and have worked at large organizations. While I’m a Full-Stack developer, my expertise is in Data Structures and Algorithms with specialization in Java and Python. 
 
 Do take a look at my work!
 
